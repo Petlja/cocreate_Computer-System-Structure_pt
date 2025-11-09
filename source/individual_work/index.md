@@ -1,10 +1,10 @@
 ---
 status: exclude
 ---
-# Detailed
+# Trabalho Individual
 
 ```{toctree}
 :maxdepth: 2
 
-activity_example
+intro
 ```

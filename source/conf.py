@@ -1,7 +1,7 @@
 
-project = 'PLCT Template'
+project = 'Građa_računala'
 copyright = '2025, Fondacija Petlja'
-author = 'Fondacija Petlja'
+author = 'CTK Rijeka'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

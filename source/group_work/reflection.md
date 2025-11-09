@@ -1,0 +1,19 @@
+# Reflexão
+
+Ao final da aula, reserve alguns minutos para refletir sobre seu trabalho e a colaboração da equipe.
+
+Complete um breve **questionário de reflexão** e participe da discussão com a turma.
+
+**Questionário de Reflexão**
+
+Avalie o quanto sua equipe seguiu os princípios de colaboração em uma escala de **1 a 4**:
+- 1 – Não se aplica à minha equipe
+- 2 – Na maioria das vezes não se aplica à minha equipe
+- 3 – Se aplica à minha equipe
+- 4 – Se aplica totalmente à minha equipe
+
+```{raw} html
+<div style="text-align: center">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeESkVJv1r2bEmDuf-WesD3TOX_tkH_V6CcWzc1a3SHIhcmEA/viewform?usp=header" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
+</div>
+```
