@@ -1,7 +1,7 @@
 ﻿---
 status: exclude
 alias: cocreate_Computer-System-Structure_pt
-lang: ne
+lang: en
 short_description: ARQUITETURA DE COMPUTADORES — partes do computador e software
 long_description: >
     <p>Nesta lição você aprenderá a reconhecer e entender as partes básicas de um computador. Por meio de tarefas práticas, você criará mapas mentais, analisará diferentes configurações de computadores e, em equipe, escolherá o modelo de laptop ideal para necessidades específicas. Você desenvolverá habilidades de trabalho em equipe, a capacidade de justificar suas escolhas e criará apresentações de forma envolvente e criativa.</p>
