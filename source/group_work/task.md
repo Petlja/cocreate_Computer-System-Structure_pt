@@ -34,7 +34,7 @@ Ouça atentamente as apresentações dos outros grupos para poder participar da 
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
+    <iframe src="https://docs.google.com/presentation/d/1Jk1LawT9ALUZUz2t59RCRItbfDjGenbyNb8a-Vy9G0U/edit?slide=id.p#slide=id.p" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
 </div>
 
 
