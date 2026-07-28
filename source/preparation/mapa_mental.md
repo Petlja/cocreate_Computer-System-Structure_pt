@@ -28,12 +28,3 @@
 </div>
 ```
 
-**Rubrica de avaliação do mapa mental**
-
-| Categoria                     | Descrição | Pontos |
-|------------------------------|-----------|--------|
-| Estrutura e lógica           | Os conceitos-chave, ramos e sub-ramos estão claramente e significativamente conectados, mostrando compreensão das relações entre os termos. | 0–3 |
-| Conteúdo e precisão           | O mapa inclui todos os termos principais das aulas anteriores e demonstra pleno entendimento do tema. | 0–3 |
-| Clareza e design              | O mapa é visualmente claro, legível e logicamente organizado; cores, formas e layout facilitam o acompanhamento. | 0–2 |
-| Colaboração e envio           | Todos os membros contribuíram; o mapa foi enviado corretamente na plataforma (no formato exigido e dentro do prazo). | 0–2 |
-
