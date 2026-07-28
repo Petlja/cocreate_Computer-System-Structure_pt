@@ -5,5 +5,4 @@
 :caption: Contents
 :hidden:
 
-for_teachers
 ```

@@ -8,5 +8,6 @@ status: exclude
 
 intro
 task
+presentation
 reflection
 ```
