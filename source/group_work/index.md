@@ -7,6 +7,7 @@ status: exclude
 :maxdepth: 2
 
 intro
-task
+presentation
+evaluation
 reflection
 ```

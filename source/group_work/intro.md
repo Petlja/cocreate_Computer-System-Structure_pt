@@ -1,36 +1,50 @@
 # Introdução
 
-Agora vocês vão trabalhar nos mesmos grupos de **3–4 alunos** que usaram para criar os mapas mentais.
+```{learnmorenote} Instruções para o professor:
 
-Cada grupo receberá um **cenário específico e um orçamento:**
--   Laptop para uso escolar – até **€700**
--   Laptop para jogos – até **€3000**
--   Laptop para trabalho de escritório básico – até **€1000**
--   Laptop para edição de vídeo – até **€2500**
--   Laptop para programação – até **€2000**
+Antes de iniciar a lição, é necessário modificar os tópicos abaixo especificando o nome ou número do grupo e deixando um número suficiente de cenários.
+```
 
-**Papéis na equipe**
--   **Pesquisador:** encontra as informações necessárias usando o mapa mental do grupo e fontes online relevantes.
--   **Relator:** registra as respostas do grupo e verifica se atendem às especificações exigidas.
--   **Técnico:** encontra o laptop escolhido em uma loja online e verifica se ele atende aos critérios.
--   **Apresentador:** prepara uma breve apresentação com as especificações e explica a escolha do grupo.
+Agora você está trabalhando nos mesmos grupos de 3 a 4 alunos em que criou os mapas mentais.
 
-Se o grupo tiver três membros, **combine os papéis de Relator e Apresentador.**
+**Cada grupo recebe um cenário específico e orçamento:**
+
+-   Laptop para escola — até € 700
+
+-   Laptop para jogos — até € 3000
+
+-   Laptop para trabalho administrativo básico — até € 1000
+
+-   Laptop para edição de vídeo — até € 2500
+
+-   Laptop para programação — até € 2500
+
+## Funções na Equipe
+
+-   **Pesquisador**: encontra as informações necessárias usando o mapa mental compartilhado e pesquisa fontes online relevantes.
+
+-   **Anotador**: registra as respostas do grupo e verifica se estão em conformidade com as especificações determinadas.
+
+-   **Técnico**: encontra o laptop selecionado em uma loja online e verifica se atende aos requisitos especificados.
+
+-   **Apresentador**: prepara uma breve apresentação que mostra as especificações do computador selecionado e justifica a escolha do grupo.
+
+Se houver três membros no grupo, as funções de anotador e apresentador se combinam.
 
 ```{infonote}
 **Nota**
 
-Embora cada membro do grupo tenha um papel individual, a colaboração é fundamental — todos se apoiam em todas as etapas da tarefa.
-Você é responsável por cumprir seu papel de forma eficaz e dentro do prazo, mas ao mesmo tempo contribui para o resultado geral do grupo.
+Além de cada membro do grupo ter uma função específica atribuída, todos ajudam uns aos outros em todas as partes da tarefa. É sua responsabilidade garantir que a parte do trabalho atribuída à sua função seja feita com qualidade e no prazo, mas ao mesmo tempo você colabora e contribui para a solução conjunta do grupo.
 ```
 
+## Avaliação
 
-**Rubrica de avaliação do trabalho em grupo**
+A tarefa será avaliada com uma rubrica:
 
-| Categoria                    | Descrição                                                                                                                                                                                                                                   | Pontos |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Especificações técnicas      | O laptop atende aos requisitos do cenário: processador, RAM, tipo e capacidade de memória, placa gráfica, tela e outros. As especificações são realistas e dentro do orçamento.                    | 0–2    |
-| Encontrar modelo adequado    | O grupo encontrou com sucesso um modelo específico de laptop em uma loja online que atende às especificações acordadas e oferece o melhor custo-benefício.                                       | 0–2    |
-| Colaboração em grupo        | Todos os membros participaram ativamente, respeitaram as regras de colaboração, ajudaram uns aos outros e cumpriram seus papéis com responsabilidade.                                           | 0–2    |
-| Qualidade da apresentação   | O slide é claro e informativo, inclui todos os detalhes e elementos visuais exigidos. A apresentação é clara, audível e dura 3–4 minutos.                                                        | 0–2    |
-| Explicação e argumentação   | O grupo explica claramente por que selecionou essas especificações e esse laptop e como ele atende às necessidades do usuário no cenário apresentado.                                             | 0–2    |
+| Categoria | Descrição |
+|-----------|----------|
+| Especificações técnicas | O computador atende aos requisitos especificados no cenário: processador, RAM, tipo e capacidade de memória, placa gráfica, monitor e outros. As especificações são reais e verificáveis. |
+| Encontrando o modelo apropriado | O grupo encontrou com sucesso um modelo de laptop específico em uma loja online que atende às especificações acordadas e oferece o melhor custo-benefício para o orçamento. |
+| Colaboração no grupo | Todos os membros participam ativamente, respeitam as regras de colaboração eficaz, ajudam uns aos outros e executam responsavelmente suas funções atribuídas. |
+| Qualidade da apresentação (slides e apresentação) | O slide é claro e informativo, contém todas as informações solicitadas e elementos visuais. A apresentação é clara e suficientemente alta e dura 3-4 minutos. |
+| Justificativa da escolha e argumentação | O grupo justifica claramente por que escolheu essas especificações e esse laptop e como ele atende às necessidades do usuário no cenário. |

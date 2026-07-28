@@ -1,22 +1,16 @@
 # Introdução
 
-Queridos alunos,
+```{learnmorenote} Instruções para professores:
 
-Como tarefa de casa, vocês criaram um **mapa mental dos conceitos-chave.**
-Agora vamos revisar juntos os mapas mentais dos grupos!
+Os alunos entregaram os mapas mentais como parte da tarefa de casa, nos quais trabalharam usando a abordagem CSCL. Antes de prosseguir com as atividades, é necessário revisar os mapas mentais entregues e fornecer feedback individualizado se necessário.
+```
 
-Nesta lição, vocês vão aplicar o conhecimento sobre **componentes do computador**.
-Primeiro, vocês irão **analisar individualmente várias configurações de computador** e, depois, em grupos, **escolher uma configuração de laptop** para uma finalidade específica.
+Você criou mapas mentais em grupos para revisar o conhecimento sobre as partes do computador. Hoje você continuará com tarefas que aplicam o conhecimento sobre componentes de computador, e neste processo praticarão habilidades de análise e tomada de decisão.
 
-É importante seguir as instruções, colaborar com sua equipe e explicar claramente suas decisões.
+Na próxima atividade você resolve as tarefas de forma independente no computador.
 
-Na próxima atividade, você irá **realizar um quiz no computador**.
+Sua tarefa é analisar quatro configurações de computador diferentes e, com a ajuda do mapa mental de seu grupo, responder às perguntas. Cuidado, pode haver uma ou mais respostas corretas.
 
-Sua tarefa é **analisar quatro diferentes configurações de computador** e, usando o mapa mental do seu grupo, responder às perguntas propostas.
+Tempo previsto: **15 min**
 
-Atenção – pode haver **uma ou mais respostas corretas**.
-
-**Tempo limite:** 15 minutos
-
-Após enviar suas respostas, você receberá **feedback automático** sobre seus resultados, que discutiremos juntos em seguida.
-
+Após enviar, você receberá feedback automático sobre seu desempenho e discutiremos as respostas juntos.
