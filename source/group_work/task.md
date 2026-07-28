@@ -28,12 +28,6 @@ responda às seguintes perguntas:**
     - Por que exatamente esse laptop?
     - Como ele atende às necessidades do usuário no cenário?
 
-## Google Slides Compartilhado
-
-```{questionnote}
-**É confortável preencher o slide no iFrame?**
-```
-
 ```{raw} html
 <div style="text-align: center">
     <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen"></iframe>

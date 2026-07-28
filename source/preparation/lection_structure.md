@@ -2,7 +2,7 @@
 
 **Esta lição tem três componentes:**
 
-![Imagem do quiz](images/Slika_1_CRO.png)
+![Imagem do quiz](images/Slika_1_PT.png)
 
 Ao final da aula, cada parte de seu trabalho será avaliada:
 

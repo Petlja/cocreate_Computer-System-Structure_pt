@@ -1,4 +1,4 @@
-# Refleksija
+# Reflexão
 
 Agora que você terminou tudo, reserve alguns minutos para refletir sobre seu próprio trabalho e o trabalho de sua equipe. Não é necessário preencher nada — leia as seguintes afirmações e para cada uma, pense honestamente em quanto cada uma descreve o trabalho em equipe do seu grupo.
 
