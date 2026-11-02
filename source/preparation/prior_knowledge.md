@@ -13,5 +13,3 @@
 -   diferenciar software de sistema e software do usuário e fornecer exemplos de programas.
 
 Esses conceitos foram gradualmente cobertos nas aulas anteriores e agora você deve organizá-los em um mapa mental para a tarefa de casa. O mapa mental servirá como base para tarefas individuais e em grupo na próxima aula.
-
-Se você ainda não estiver completamente familiarizado com alguns desses conceitos, recomendamos que você assista ao seguinte vídeo: [Partes básicas do computador](https://www.youtube.com/watch?v=tbNRCC9loMs)
