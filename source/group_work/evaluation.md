@@ -1,5 +1,5 @@
-# Apresentações e Discussão
+# Apresentações e discussão  
 
-Este é o momento de você apresentar suas soluções!
+Chegou o momento de apresentar as suas soluções!  
 
-Ouça atentamente as apresentações dos outros grupos para que você possa participar da discussão.
+Ouçam atentamente as apresentações dos outros grupos para poderem participar na discussão.  

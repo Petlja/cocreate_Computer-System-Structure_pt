@@ -1,47 +1,49 @@
 # Reflexão
 
-Agora que você terminou tudo, reserve alguns minutos para refletir sobre seu próprio trabalho e o trabalho de sua equipe. Não é necessário preencher nada — leia as seguintes afirmações e para cada uma, pense honestamente em quanto cada uma descreve o trabalho em equipe do seu grupo.
 
-1. Durante o trabalho em equipe, todos nós fomos iguais e nos respeitamos.
-2. Mantivemos uma boa atmosfera mesmo quando pensávamos diferentemente.
-3. Todos fomos responsáveis pelo trabalho do grupo.
-4. Ajudamos uns aos outros para que todos contribuíssem para o trabalho do grupo.
-5. Tentamos envolver cada membro da equipe na tomada de decisões.
-6. Consideramos diferentes ideias para escolher a melhor solução.
-7. Desenvolvemos ideias, discutimos sobre elas e pensamos em soluções.
-8. Gerenciamos bem o tempo para completar a tarefa com sucesso.
-9. Acompanhamos nosso progresso e pensamos nos próximos passos.
+Agora que concluíram todas as tarefas, reservem alguns minutos para refletir sobre o vosso trabalho individual e o trabalho da equipa. Não há nada para preencher — leiam as afirmações seguintes e, para cada uma, considerem honestamente até que ponto se aplica à vossa equipa. Em que aspectos foram mais fortes? Onde é possível melhorar?
 
-Se você acha que algum desses princípios não estava presente o suficiente em sua equipe, pense no que você pessoalmente poderia fazer diferente no próximo trabalho em equipe.
+1.	Durante o trabalho em equipa, todos fomos tratados em igualdade e respeitámos uns aos outros.
+2.	Mantivemos um bom ambiente, mesmo quando pensámos de forma diferente.
+3.	Todos fomos responsáveis pelo trabalho do grupo.
+4.	Ajudámos-nos uns aos outros para que todos pudessem contribuir para o trabalho do grupo.
+5.	Tentámos incluir todos os elementos da equipa na tomada de decisões.
+6.	Considerámos diferentes ideias para escolher a melhor solução.
+7.	Desenvolvemos ideias, discutimo-las e concebemos soluções em conjunto.
+8.	Usámos o tempo de forma adequada para concluir a tarefa com sucesso.
+9.	Acompanhámos o nosso progresso e refletimos sobre os passos seguintes.
 
-```{learnmorenote} Reflexão sobre o trabalho em equipe — Instruções para professores:
+Se considerarem que alguns destes princípios não estiveram suficientemente presentes na vossa equipa, pensem no que poderiam fazer de forma diferente num próximo projeto em grupo.
 
-Abaixo estão as perguntas de reflexão sobre o trabalho em equipe. Sugerimos que você as integre em um dos questionários online (por exemplo, Google Forms, Microsoft Forms ou a ferramenta que você usa em sua plataforma) para avaliar como cada aluno percebe o trabalho em equipe de seu grupo.
 
-#### Questionário sobre trabalho em grupo
+```{learnmorenote} Reflexão da equipa — notas para professores:
 
-Instruções para alunos: Avalie em que medida seu grupo respeitou os princípios de trabalho em equipe mencionados durante o trabalho em equipe em uma escala de 1 a 4.
+Abaixo encontram-se questões para refletir sobre o trabalho em equipa. Sugerimos que sejam integradas num questionário online (por exemplo, Google Forms, Microsoft Forms ou a ferramenta utilizada na plataforma), partilhado com os alunos. Depois de os alunos responderem ao questionário, discutam em conjunto as perguntas e os resultados.
+
+#### Questionário sobre trabalho em equipa
+    
+Instruções para os alunos: avaliem numa escala de 1 a 4 o grau de cumprimento dos princípios de trabalho em equipa indicados durante a tarefa de grupo.
 
 Escala de classificação:
-1. Não se aplica ao meu grupo
-2. Não se aplica muito ao meu grupo
-3. Aplica-se ao meu grupo
-4. Aplica-se completamente ao meu grupo
+1. Não se aplica de todo à minha equipa
+2. Não se aplica à minha equipa
+3. Aplica-se à minha equipa
+4. Aplica-se totalmente à minha equipa
 
-Pergunta introdutória: A qual grupo você pertence? (Grupo 1 / Grupo 2 / Grupo 3 / Grupo 4)
+Pergunta inicial: A que equipa pertence? (Equipa 1 / Equipa 2 / Equipa 3 / Equipa 4)
 
 Afirmações para avaliação:
-1. Durante o trabalho em equipe, todos nós fomos iguais e nos respeitamos.
-2. Mantivemos uma boa atmosfera mesmo quando pensávamos diferentemente.
+1. Durante o trabalho em equipa, todos fomos tratados em igualdade e respeitámos uns aos outros.
+2. Mantivemos um bom ambiente, mesmo quando pensámos de forma diferente.
 3. Todos fomos responsáveis pelo trabalho do grupo.
-4. Ajudamos uns aos outros para que todos contribuíssem para o trabalho do grupo.
-5. Tentamos envolver cada membro da equipe na tomada de decisões.
-6. Consideramos diferentes ideias para escolher a melhor solução.
-7. Desenvolvemos ideias, discutimos sobre elas e pensamos em soluções.
-8. Gerenciamos bem o tempo para completar a tarefa com sucesso.
-9. Acompanhamos nosso progresso e pensamos nos próximos passos.
+4. Ajudámos-nos uns aos outros para que todos pudessem contribuir para o trabalho do grupo.
+5. Tentámos incluir todos os elementos da equipa na tomada de decisões.
+6. Considerámos diferentes ideias para escolher a melhor solução.
+7. Desenvolvemos ideias, discutimo-las e concebemos soluções em conjunto.
+8. Usámos o tempo de forma adequada para concluir a tarefa com sucesso.
+9. Acompanhámos o nosso progresso e refletimos sobre os passos seguintes.
 
-#### Sugestão de discussão após o questionário
+#### Discussão sugerida após o questionário
 
-Revise os resultados com os alunos. Se a pontuação média de algum princípio for inferior a 3, isso é um sinal de que a equipe deve trabalhar para melhorar esse aspecto do trabalho em equipe no futuro. Encoraje os alunos a pensar em estratégias para melhorar a colaboração em próximos projetos.
+Analisem os resultados com os alunos. Se a classificação média de um princípio específico for inferior a 3, isso indica que a equipa deve trabalhar para melhorar esse aspeto do trabalho em equipa no futuro. Incentive os alunos a serem específicos: o que aconteceu exatamente, porquê e o que cada elemento da equipa poderia fazer de forma diferente da próxima vez.
 ```

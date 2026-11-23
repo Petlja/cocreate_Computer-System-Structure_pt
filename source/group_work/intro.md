@@ -1,50 +1,43 @@
 # Introdução
 
-```{learnmorenote} Instruções para o professor:
+```{learnmorenote} Nota para professores:
 
-Antes de iniciar a lição, é necessário modificar os tópicos abaixo especificando o nome ou número do grupo e deixando um número suficiente de cenários.
+Antes de iniciar a aula, altere os itens abaixo, indicando o nome ou número do grupo e deixando apenas o número relevante de cenários.
 ```
 
-Agora você está trabalhando nos mesmos grupos de 3 a 4 alunos em que criou os mapas mentais.
+Irá agora trabalhar nos mesmos grupos de **3 a 4 alunos** que utilizou para criar os mapas mentais.
 
-**Cada grupo recebe um cenário específico e orçamento:**
+Cada grupo receberá um **cenário e um orçamento específicos:**
+-	Portátil para utilização escolar – até **700 €**
+-	Portátil para jogos – até **3000 €**
+-	Portátil para trabalho básico de escritório – até **1000 €**
+-	Portátil para edição de vídeo – até **2500 €**
+-	Portátil para programação – até **2500 €**
 
--   Laptop para escola — até € 700
+**Funções da equipa**
+-	**Investigador:** procura a informação necessária no mapa mental do grupo e em fontes relevantes da Internet.
+-	**Secretário:** regista as respostas do grupo e verifica se correspondem às especificações exigidas.
+-	**Técnico:** encontra o portátil escolhido numa loja online e verifica se cumpre os critérios.
+-	**Apresentador:** prepara uma breve apresentação com as especificações e explica a escolha do grupo.
 
--   Laptop para jogos — até € 3000
+Se o grupo tiver três elementos, **combine as funções de Secretário e Apresentador.**
 
--   Laptop para trabalho administrativo básico — até € 1000
 
--   Laptop para edição de vídeo — até € 2500
-
--   Laptop para programação — até € 2500
-
-## Funções na Equipe
-
--   **Pesquisador**: encontra as informações necessárias usando o mapa mental compartilhado e pesquisa fontes online relevantes.
-
--   **Anotador**: registra as respostas do grupo e verifica se estão em conformidade com as especificações determinadas.
-
--   **Técnico**: encontra o laptop selecionado em uma loja online e verifica se atende aos requisitos especificados.
-
--   **Apresentador**: prepara uma breve apresentação que mostra as especificações do computador selecionado e justifica a escolha do grupo.
-
-Se houver três membros no grupo, as funções de anotador e apresentador se combinam.
-
-```{infonote}
+```{infonote} 
 **Nota**
 
-Além de cada membro do grupo ter uma função específica atribuída, todos ajudam uns aos outros em todas as partes da tarefa. É sua responsabilidade garantir que a parte do trabalho atribuída à sua função seja feita com qualidade e no prazo, mas ao mesmo tempo você colabora e contribui para a solução conjunta do grupo.
+Embora cada elemento do grupo tenha uma função individual, a colaboração é fundamental — todos se apoiam mutuamente em todas as etapas da tarefa.
+Deverá desempenhar a sua função de forma eficaz e dentro do prazo, ao mesmo tempo que contribuirá para o resultado final do grupo.
 ```
 
-## Avaliação
 
-A tarefa será avaliada com uma rubrica:
 
-| Categoria | Descrição |
-|-----------|----------|
-| Especificações técnicas | O computador atende aos requisitos especificados no cenário: processador, RAM, tipo e capacidade de memória, placa gráfica, monitor e outros. As especificações são reais e verificáveis. |
-| Encontrando o modelo apropriado | O grupo encontrou com sucesso um modelo de laptop específico em uma loja online que atende às especificações acordadas e oferece o melhor custo-benefício para o orçamento. |
-| Colaboração no grupo | Todos os membros participam ativamente, respeitam as regras de colaboração eficaz, ajudam uns aos outros e executam responsavelmente suas funções atribuídas. |
-| Qualidade da apresentação (slides e apresentação) | O slide é claro e informativo, contém todas as informações solicitadas e elementos visuais. A apresentação é clara e suficientemente alta e dura 3-4 minutos. |
-| Justificativa da escolha e argumentação | O grupo justifica claramente por que escolheu essas especificações e esse laptop e como ele atende às necessidades do usuário no cenário. |
+**Grelha de avaliação do trabalho de grupo**
+
+  | Categoria                               | Descrição                                                                                                                                                                                                                                     | Pontos |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Especificações técnicas                     | O portátil cumpre os requisitos do cenário: processador, RAM, tipo e capacidade de memória, placa gráfica, ecrã, entre outros. As especificações são realistas e estão dentro do orçamento.                           | 0–2    |
+| Encontrar um modelo adequado            | O grupo encontrou com sucesso um modelo específico de portátil numa loja online que cumpre as especificações acordadas e oferece a melhor relação qualidade/preço.                                        | 0–2    |
+| Colaboração em grupo                           | Todos os elementos participaram ativamente, respeitaram as regras de colaboração, ajudaram-se mutuamente e desempenharam as suas funções com responsabilidade.                                                                 | 0–2    |
+| Qualidade da apresentação (diapositivo e exposição) | O diapositivo é claro e informativo, inclui todos os detalhes e elementos visuais necessários. A apresentação é clara, audível e dura 3–4 minutos.                                                | 0–2    |
+| Explicação e fundamentação        | O grupo explica claramente por que selecionou estas especificações e este portátil e como este responde às necessidades do utilizador no cenário indicado.                                                                  | 0–2    |

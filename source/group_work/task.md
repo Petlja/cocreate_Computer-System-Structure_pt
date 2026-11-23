@@ -2,34 +2,39 @@
 
 ## (30 minutos)
 
-Agora que vocês foram divididos em grupos, comece a trabalhar para encontrar
-o laptop que melhor se adequa ao seu cenário. Você tem um total de 30 minutos de trabalho em grupo. Desse tempo, 20 minutos são para pesquisa e acordo dentro da equipe, e os 10 minutos restantes para inserir dados no Google Slides e preparar a apresentação.
+Agora que estão organizados em grupos, comecem a procurar o portátil que melhor se adapta ao cenário que lhes foi atribuído.
+Dispõem de **30 minutos** para a tarefa integral do grupo:
+-	20 minutos para investigação e tomada de decisões
+-	10 minutos para introduzir os dados no Google Slides e preparar a apresentação.
 
-**Desenvolva uma configuração de laptop para o cenário atribuído e
-responda às seguintes perguntas:**
+**Tarefa de grupo**
+**Escolham uma configuração de portátil** para o cenário atribuído e respondam às seguintes perguntas:
+-	Que tipo de processador precisam – quantos núcleos e que frequência aproximada?
+-	Que quantidade de RAM é suficiente para o vosso objetivo?
+-	Que tipo e capacidade de armazenamento precisam?
+-	Que características adicionais deve ter o portátil (por exemplo, placa gráfica, portas, sistema operativo, tamanho e resolução do ecrã)?
 
-- Que tipo de processador você precisa — quantos núcleos e qual é a velocidade aproximada do processador?
+Com base nas especificações acordadas, encontrem um **modelo de portátil** numa loja online nacional que satisfaça melhor os requisitos.
+Tentem obter a **melhor relação qualidade/preço possível dentro do orçamento disponível.**
 
-- Qual capacidade de memória RAM é suficiente para seu propósito?
+Em seguida, preparem um diapositivo no documento partilhado do Google Slides do vosso grupo.
 
-- Que tipo e qual capacidade de armazenamento em massa você precisa?
+O diapositivo deve incluir:
+-	Nome do grupo, finalidade do portátil e orçamento
+-	Especificações técnicas (processador, RAM, armazenamento, sistema operativo e outros detalhes)
+-	Uma ligação para a loja online onde encontraram o portátil escolhido
+Preparem uma **apresentação de 3–4 minutos** explicando:
+-	Por que selecionaram estas especificações
+-	Por que escolheram este portátil específico
+-	Como satisfaz as necessidades do utilizador no cenário indicado
 
-- O que mais o computador precisa ter considerando seu propósito (por exemplo, placa gráfica, portas, sistema operacional, tamanho e qualidade do monitor...)?
 
-- Com base nas especificações acordadas, encontre um modelo de laptop em uma loja online que melhor atenda aos seus requisitos. Tente obter o melhor valor pelo dinheiro disponível.
+Passemos às apresentações — chegou o momento de partilhar as soluções do vosso grupo!
 
-- Com base nas especificações acordadas, prepare um slide no documento compartilhado do Google Slides. O slide deve conter:
-    - Nome do grupo, propósito do laptop e orçamento
-    - Especificações técnicas (processador, RAM, armazenamento em massa, SO e outros)
-    - Imagem do laptop selecionado e link para a loja
-
-- Prepare uma breve apresentação (3-4 minutos) em que você explicará:
-    - Por que você escolheu essas especificações?
-    - Por que exatamente esse laptop?
-    - Como ele atende às necessidades do usuário no cenário?
+Ouçam atentamente as apresentações dos outros grupos para poderem participar na discussão.
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
 </div>
 ```

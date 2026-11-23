@@ -1,26 +1,17 @@
-# Para Professores
+# Apêndice para professores
 
-## Recursos de Ensino
+Aqui encontrará informações para professores.
+É útil conhecer dicas sobre como utilizar o Markdown ao formatar documentos. Pode encontrar mais informações [aqui](https://www.markdownguide.org/cheat-sheet/).
 
-Este documento fornece recursos e orientações adicionais para professores que implementam este curso.
+Um componente expansível que pode ser adicionado às páginas que os alunos também consultam é definido da seguinte forma:
 
-### Objetivos de Aprendizagem
+```{learnmorenote} Texto sempre visível
 
-Os alunos devem ser capazes de:
-- Identificar e nomear partes básicas de computadores
-- Entender o papel de cada componente
-- Comparar diferentes configurações de computador
-- Fazer escolhas informadas sobre seleção de computador
+Conteúdo adicional que só fica visível ao clicar na seta de expansão
+```
 
-### Dicas de Implementação
+Nota: na pré-visualização do GitHub, nada aparece como expansível. O curso tem de ser "compilado" e publicado para o ver (ou as ferramentas que criam uma pré-visualização completa têm de ser instaladas localmente, o que não é uma opção para não programadores :)
 
-1. Use mapas mentais para ativar conhecimento prévio
-2. Incentive a colaboração em grupo durante tarefas práticas
-3. Forneça feedback regular sobre o progresso dos alunos
-4. Conecte o aprendizado com cenários do mundo real
+## Cabeçalho 2
 
-### Recursos Adicionais
-
-- Vídeos sobre componentes de computador
-- Fornecedores online para pesquisa de preços
-- Especificações de hardware para comparação
+### Cabeçalho 3
